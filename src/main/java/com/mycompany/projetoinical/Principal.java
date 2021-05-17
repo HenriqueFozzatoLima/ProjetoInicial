@@ -10,5 +10,37 @@ package com.mycompany.projetoinical;
  * @author Usuario
  */
 public class Principal {
+    public static void main(String[] args) {
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 }
